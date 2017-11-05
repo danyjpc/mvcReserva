@@ -8,6 +8,7 @@ namespace mvcReservaHotel.Controllers
 {
     public class HomeController : Controller
     {
+        //hola 
         public ActionResult Index()
         {
             return View();
